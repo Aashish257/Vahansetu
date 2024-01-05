@@ -5,6 +5,7 @@
   font-size:15px;
   line-height:24px;
   color:#737373;
+  overflow: hidden;
 }
 .site-footer hr
 {
@@ -56,7 +57,7 @@
 }
 .site-footer .social-icons
 {
-  text-align:right
+  text-align:center
 }
 .site-footer .social-icons a
 {
@@ -139,6 +140,13 @@
 .social-icons a.facebook:hover
 {
   background-color:#3b5998
+}
+.social-icons{
+  margin-top: 8px;
+}
+.social-icons i{
+  font-size: 1.6rem;
+  margin-top: 8px;
 }
 .social-icons a.twitter:hover
 {
