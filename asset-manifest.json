@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Vahansetu/static/css/main.4d7a20e2.css",
+    "main.js": "/Vahansetu/static/js/main.cb395a77.js",
+    "static/js/787.bb6a10d1.chunk.js": "/Vahansetu/static/js/787.bb6a10d1.chunk.js",
+    "static/media/yuriy-kovalev-nN1HSDtKdlw-unsplash.jpg": "/Vahansetu/static/media/yuriy-kovalev-nN1HSDtKdlw-unsplash.0acaa83768131db939a2.jpg",
+    "static/media/home.png": "/Vahansetu/static/media/home.0b43783b7f34850d8cb3.png",
+    "static/media/Ellipse2.png": "/Vahansetu/static/media/Ellipse2.f3386a5ddcebfd5304a7.png",
+    "static/media/Car1-02.jpeg.jpg": "/Vahansetu/static/media/Car1-02.jpeg.be592d9ec30053871799.jpg",
+    "index.html": "/Vahansetu/index.html",
+    "main.4d7a20e2.css.map": "/Vahansetu/static/css/main.4d7a20e2.css.map",
+    "main.cb395a77.js.map": "/Vahansetu/static/js/main.cb395a77.js.map",
+    "787.bb6a10d1.chunk.js.map": "/Vahansetu/static/js/787.bb6a10d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d7a20e2.css",
+    "static/js/main.cb395a77.js"
+  ]
+}
